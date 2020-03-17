@@ -1,0 +1,5 @@
+checkfreq: 43200    # seconds
+nsmaxage: 86400.0   # seconds
+users:
+  svetlin:
+    email: svetlin@mail.com
